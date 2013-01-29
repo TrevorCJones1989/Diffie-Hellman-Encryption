@@ -1,0 +1,1 @@
+A simple example of transfering data in a secure manner using Diffie-Hellman and a basic cipher.
